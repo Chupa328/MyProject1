@@ -1,5 +1,7 @@
 // TODO: musimy dodac brakujace klasy!
 
+// OK, ja dodam 'Adder', a s35639 doda 'Subtractor'.
+
 public class Main {
 
     static void main() {
